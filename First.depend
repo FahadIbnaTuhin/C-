@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1709103322 source:f:\fit programming\c plus plus\first\main.cpp
+	<iostream>
+
+1709099709 source:f:\fit programming\c plus plus\first\honor.cpp
+	<iostream>
+
+1709102745 source:f:\fit programming\c plus plus\first\errors.cpp
+	<iostream>
+
+1709103305 source:f:\fit programming\c plus plus\first\adding.cpp
+	<iostream>
+
+1709104773 source:f:\fit programming\c plus plus\first\functions.cpp
+	<iostream>
+
+1709105707 source:f:\fit programming\c plus plus\first\input_output.cpp
+	<iostream>
+
+1709105838 source:f:\fit programming\c plus plus\first\statement.cpp
+	<iostream>
+
+1709108374 source:f:\fit programming\c plus plus\first\inputoutput.cpp
+	<iostream>
+	<string>
+
+1709114106 source:f:\fit programming\c plus plus\first\number_system.cpp
+	<iostream>
+
+1709113747 source:f:\fit programming\c plus plus\first\try.cpp
+	<iostream>
+	<string>
+
+1709117002 source:f:\fit programming\c plus plus\first\integers.cpp
+	<iostream>
+
