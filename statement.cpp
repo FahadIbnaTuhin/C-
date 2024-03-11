@@ -6,7 +6,7 @@ int calculateSum(int firstNumber, int secondNumber)
     return sum;
 }
 
-int main5()
+int main()
 {
     int firstNumber {13};
     int secondNumber {15};

@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main8()
+int main()
 {
     int number1 = 15; // Decimal
     int number2 = 017; // Octal

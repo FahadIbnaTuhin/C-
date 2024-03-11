@@ -5,7 +5,8 @@
     Hello, This is multi line comment. You can comment anywhere you want in your code. Enjoy!
 */
 
-int main1(){
+int main()
+{
     // Programs starts here
     std::cout << "Number 1" << std::endl;
     std::cout << "Number 2";

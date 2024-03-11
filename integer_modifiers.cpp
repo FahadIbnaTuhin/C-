@@ -2,7 +2,7 @@
 
 // Those modifier only apply to integral types: those in which you can store decimal numbers
 
-int main10()
+int main()
 {
     // Unsigned Range: 0 ~ 2^n - 1
     // Signed Range: -2^n-1 ~ 2^n-1 - 1
@@ -31,6 +31,6 @@ int main10()
     signed long long int signed_long_long_int {1234};
     unsigned long long int unsigned_long_long_int {1234};
 
-    std::cout << sizeof(short_var) << std::endl;
+    std::cout << sizeof(unsigned_long_long_int) << std::endl;
     return 0;
 }

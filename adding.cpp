@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main3()
+int main()
 {
     int firstNumber = 12;
     int secondNumber = 9;

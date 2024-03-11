@@ -2,11 +2,10 @@
 
 // Typically stores 4 bytes of memory [ 1 byte = 8 bit ]
 
-int main9()
+int main()
 {
-    /*
+    
     // Variable/Braced initializer
-    // Variable may contain random garbage value. Warning
     int elephant_count;
     int lion_count {}; // Initializes to zero
     int dog_count {10}; // Initializes to 10
@@ -19,6 +18,7 @@ int main9()
     std::cout << dog_count << std::endl;
     std::cout << cat_count << std::endl;
     std::cout << domesticated_animals << std::endl;
+    
 
     // Won't compile, the expression in the braces use undeclared variables
     // int bad_initialization { a + b}
@@ -26,8 +26,6 @@ int main9()
     // 2.9 is of type double, with a wider range than int. Error or Warning
     // int narrowing_conversation {2.9};
     // std::cout << narrowing_conversation << std::endl;
-    */
-
 
 
     /*
@@ -48,7 +46,7 @@ int main9()
     */
 
 
-
+    /*
     // Assignment Initialization
     int bike = 2;
     int truck = 7;
@@ -62,7 +60,7 @@ int main9()
 
     std::cout << "sizeof int: " << sizeof(int) << std::endl;
     std::cout << "sizeof truck: " << sizeof(truck) << std::endl;
-
+    */
 
     return 0;
 }

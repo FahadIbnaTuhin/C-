@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main2() {
+int main() {
 
     // At the end, you will get compile error if you don't give semicolon
     std::cout << "Hello" << std::endl;
@@ -9,8 +9,8 @@ int main2() {
     //10/0;
 
     // Same Runtime error but this time using a variable
-    int value = 7 / 0;
-    std::cout << "Value: " << value << std::endl;
+    // int value = 7 / 0;
+    // std::cout << "Value: " << value << std::endl;
 
     return 0;
 
