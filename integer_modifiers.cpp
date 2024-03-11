@@ -5,7 +5,7 @@
 int main()
 {
     // Unsigned Range: 0 ~ 2^n - 1
-    // Signed Range: -2^n-1 ~ 2^n-1 - 1
+    // Signed Range: -2^(n-1) ~ 2^(n-1) - 1
 
 
     short short_var {-3256}; // 2 bytes
