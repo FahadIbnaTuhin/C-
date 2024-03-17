@@ -1,17 +1,12 @@
 #include <iostream>
-#include <cstring>
 
-// 15
+
+// 18:48
 // 19
 
+
 int main() {
-	// int age;
-	// std::cin >> age;
-	// std::cout << "HI " << age << std::endl;
+		
 
-	
-
-
-
-    return 0;
+	return 0;
 }

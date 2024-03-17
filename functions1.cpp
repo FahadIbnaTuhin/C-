@@ -1,7 +1,7 @@
 #include <iostream>
 
 // A function going to be unique based on signature. A functions signature must be unique
-// Signature: Function name + Function parameters
+// Signature: Function name + Function parameters. Signature doesn't include return type
 
 void enter_bar(size_t age); // function name and parameter together is called signature
 int max(int a, int b);
