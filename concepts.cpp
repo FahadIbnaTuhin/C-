@@ -1,14 +1,6 @@
 #include <iostream>
 #include <concepts>
 
-// An alternative to static assets and type traits
-// template <typename T>
-// void print_number(T n) {
-// 	state_assert(std::is_integral<T>::value, "Must pass in an integral argument");
-// 	std::cout << "n : " << n << std::endl;
-// }
-
-
 // using "requires" to specify your concept
 // template <typename T>
 // requires std::integral<T> // It will execute if someone call using only integral type. Integral types in C++ are data types that represent whole numbers, both signed and unsigned. These types do not include fractional parts.
