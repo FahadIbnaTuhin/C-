@@ -1,6 +1,6 @@
 // Ifndef means if something is not defined yet, define this
-#ifndef CLASS_ACROSS_MULTIPLE_FILES_CONSTRANTS_H  
-#define CLASS_ACROSS_MULTIPLE_FILES_CONSTRANTS_H
+#ifndef CONSTRANTS_H  
+#define CONSTRANTS_H
 
 const double PI {3.141673495735};
 
