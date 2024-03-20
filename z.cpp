@@ -1,15 +1,15 @@
 #include <iostream>
 #include <string>
 
+using namespace std;
 
 // 21:22
 // 24
 
-int main() 
-{
-	std::cout << "HEllo World" << std::endl;
-
-
+int main() {
+	for(size_t i{}; i < 10; ++i) {
+		cout << i << endl;
+	}
 
 	return 0;
 }
