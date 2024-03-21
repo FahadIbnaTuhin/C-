@@ -1,15 +1,14 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
 
-// 21:42
+// 22:33
 // 24
 
 int main() {
-	for(size_t i{}; i < 10; ++i) {
-		cout << i << endl;
-	}
+	// for(size_t i{}; i < 10; ++i) {
+	// 	std::cout << i << std::endl;
+	// }
 
 	return 0;
 }
