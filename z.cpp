@@ -2,8 +2,10 @@
 #include <string>
 
 
-// 22:33
+// 23:32
 // 24
+
+using namespace std;
 
 int main() {
 	// for(size_t i{}; i < 10; ++i) {
